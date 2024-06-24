@@ -1,4 +1,4 @@
-//A Java program to initialize the dialogue box for calculating the area of a rectangle//
+**A Java program to initialize the dialogue box for calculating the area of a rectangle**
 
 import javax.swing.*; //Needed for dialogue box
 
