@@ -4,7 +4,7 @@ import javax.swing.*; //Needed for dialogue box
 
 import java.util.*;
 
-public class Practice {
+public class AreaOfRectangle {
 
     public static void main(String[] args)
     {
